@@ -1,3 +1,3 @@
 # second-project
 
-http://galamemin.gihub.io/
+https://galamemin.github.io/second-project/
