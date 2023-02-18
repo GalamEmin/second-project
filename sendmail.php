@@ -11,9 +11,9 @@
 	$mail->IsHTML(true);
 
 	//От кого письмо
-	$mail->setFrom('pgroupskz@mail.ru', 'Site');
+	$mail->setFrom('bumazhnyi_vek@mail.ru', 'Site');
 	//Кому отправить
-	$mail->addAddress('pgroupskz@mail.ru');
+	$mail->addAddress('bumazhnyi_vek@mail.ru');
 	//Тема письма
 	$mail->Subject = 'Письмо с сайта';
 
